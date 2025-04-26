@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Proveer la ubicación del sitemap
+Sitemap: https://dondeseria.cusig.co/sitemap.xml
